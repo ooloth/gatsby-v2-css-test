@@ -1,6 +1,6 @@
 # gatsby-v2-css-test
 
-A demo Gatsby v2 site to demonstrate the FOUC in development when using global CSS (e.g. Tachyons in the case).
+A demo Gatsby v2 site to demonstrate the FOUC in development when using global CSS (Tachyons in this example).
 
 ## tl;dr
 

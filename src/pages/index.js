@@ -26,7 +26,10 @@ const IndexPage = () => (
 
 const Images = ({ images }) => (
   <>
-    <h2 className="mt0 mb4 f2">Some images:</h2>
+    <h2 className="mt0 mb1 f2">Some images:</h2>
+    <p className="mb4 f4">
+      (No gatsby-image for simplicity, though I'd usually use it!)
+    </p>
     <ul
       className="list mv0 pl0 pb5"
       style={{

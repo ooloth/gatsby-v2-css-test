@@ -1,6 +1,7 @@
 {
   "name": "gatsby-v2-css-test",
   "description": "Gatsby v2 CSS Test",
+  "repository": "github:ooloth/gatsby-v2-css-test.git",
   "version": "1.0.0",
   "author": "Michael Uloth <hello@michaeluloth.com>",
   "dependencies": {
